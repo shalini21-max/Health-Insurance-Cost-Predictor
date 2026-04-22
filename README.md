@@ -1,2 +1,18 @@
-# Health-Insurance-Cost-Predictor
-The main objective of this project is to analyze key factors affecting health insurance costs and build a machine learning model to accurately predict medical insurance charges. This model can help insurance companies make data-driven pricing decisions and assist customers in estimating their expected insurance expenses.
+Health Insurance Cost Predictor
+📌 Problem Statement
+
+Predict medical insurance costs based on user attributes like age, BMI, smoking status, and region.
+
+⚙️ Tech Stack
+Python
+Pandas, NumPy
+Scikit-learn
+XGBoost
+Matplotlib, Seaborn
+Streamlit
+🔍 Features
+Data Cleaning & Preprocessing
+Exploratory Data Analysis (EDA)
+Feature Engineering
+Model Training (Regression Models)
+Model Evaluation & Optimization
