@@ -47,7 +47,7 @@ The dataset used contains the following features:
 ## 🖥️ Application Interface
 
 <p align="center">
-  <img src="images/ui.png" alt="Health Insurance Cost Predictor UI" width="650"/>
+  <img src="imagesui.png" alt="Health Insurance Cost Predictor UI" width="650"/>
 </p>
 
 ---
