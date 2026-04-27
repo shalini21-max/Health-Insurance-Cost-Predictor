@@ -136,7 +136,7 @@ jupyter notebook
 
 ## 🔮 Future Improvements
 
-* Deploy as a web application (Flask / Streamlit)
+* Deploy as a web application (Streamlit)
 * Improve model accuracy with advanced tuning
 * Add more real-world features
 * Create an interactive dashboard
